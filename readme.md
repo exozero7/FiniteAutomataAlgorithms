@@ -1,13 +1,13 @@
 ## Finite Automata converting algorithms
 ## info
 
-```enfa_nfa```          - converts ε-NFA to NFA
-```nfa_dfa```           - converts NFA to DFA
-```dfa_minimization```  - minimizes DFA
+```enfa_nfa```          - converts ε-NFA to NFA <br>
+```nfa_dfa```           - converts NFA to DFA <br>
+```dfa_minimization```  - minimizes DFA <br>
 
-graphviz is used to draw the models and export them on JPG, PNG, PDF...
+graphviz is used to draw the models and export them on JPG, PNG, PDF... <br>
 
-```sudo apt-get install graphviz```
+```sudo apt-get install graphviz``` <br>
 ```pip3 install graphviz```
 
 If you don't want drawn model comment out in code
